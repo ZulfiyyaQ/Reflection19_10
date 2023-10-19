@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\tasks\ReflectionTask19_10\ReflectionTask19_10\bin\Debug\net7.0\ReflectionTask19_10.exe
+C:\Users\Asus\Desktop\tasks\ReflectionTask19_10\ReflectionTask19_10\bin\Debug\net7.0\ReflectionTask19_10.deps.json
+C:\Users\Asus\Desktop\tasks\ReflectionTask19_10\ReflectionTask19_10\bin\Debug\net7.0\ReflectionTask19_10.runtimeconfig.json
+C:\Users\Asus\Desktop\tasks\ReflectionTask19_10\ReflectionTask19_10\bin\Debug\net7.0\ReflectionTask19_10.dll
+C:\Users\Asus\Desktop\tasks\ReflectionTask19_10\ReflectionTask19_10\bin\Debug\net7.0\ReflectionTask19_10.pdb
+C:\Users\Asus\Desktop\tasks\ReflectionTask19_10\ReflectionTask19_10\obj\Debug\net7.0\ReflectionTask19_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\tasks\ReflectionTask19_10\ReflectionTask19_10\obj\Debug\net7.0\ReflectionTask19_10.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\tasks\ReflectionTask19_10\ReflectionTask19_10\obj\Debug\net7.0\ReflectionTask19_10.AssemblyInfo.cs
+C:\Users\Asus\Desktop\tasks\ReflectionTask19_10\ReflectionTask19_10\obj\Debug\net7.0\ReflectionTask19_10.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\tasks\ReflectionTask19_10\ReflectionTask19_10\obj\Debug\net7.0\ReflectionTask19_10.dll
+C:\Users\Asus\Desktop\tasks\ReflectionTask19_10\ReflectionTask19_10\obj\Debug\net7.0\refint\ReflectionTask19_10.dll
+C:\Users\Asus\Desktop\tasks\ReflectionTask19_10\ReflectionTask19_10\obj\Debug\net7.0\ReflectionTask19_10.pdb
+C:\Users\Asus\Desktop\tasks\ReflectionTask19_10\ReflectionTask19_10\obj\Debug\net7.0\ReflectionTask19_10.genruntimeconfig.cache
+C:\Users\Asus\Desktop\tasks\ReflectionTask19_10\ReflectionTask19_10\obj\Debug\net7.0\ref\ReflectionTask19_10.dll
